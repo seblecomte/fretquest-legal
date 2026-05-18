@@ -89,4 +89,4 @@ These Terms are governed by the laws of **France**, without regard to its confli
 
 If you have any question about these Terms, contact us at:
 
-**contact@aureliapandoralabs.com**
+**contact@jamsaround.com**

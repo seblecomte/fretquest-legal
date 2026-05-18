@@ -75,7 +75,7 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 
 If you have any question about this Privacy Policy, contact us at:
 
-**contact@aureliapandoralabs.com**
+**contact@jamsaround.com**
 
 ---
 
