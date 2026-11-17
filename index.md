@@ -1,11 +1,11 @@
 ---
-title: FretQuest — Legal
+title: FretScape — Legal
 layout: default
 ---
 
-# FretQuest
+# FretScape
 
-Legal documents for the FretQuest iOS app published by **Aurélia Pandora Labs**.
+Legal documents for the FretScape iOS app published by **Aurélia Pandora Labs**.
 
 - [Privacy Policy](./privacy)
 - [Terms of Use](./terms)

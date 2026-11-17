@@ -1,5 +1,5 @@
 ---
-title: FretQuest — Terms of Use
+title: FretScape — Terms of Use
 layout: default
 ---
 
@@ -7,7 +7,7 @@ layout: default
 
 **Last updated: May 19, 2026**
 
-These Terms of Use (the "Terms") govern your access to and use of the **FretQuest** mobile application (the "App"), published by **Aurélia Pandora Labs** ("we", "us", "our").
+These Terms of Use (the "Terms") govern your access to and use of the **FretScape** mobile application (the "App"), published by **Aurélia Pandora Labs** ("we", "us", "our").
 
 By downloading, installing or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
